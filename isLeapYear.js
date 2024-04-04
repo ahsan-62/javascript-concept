@@ -6,8 +6,6 @@ function isLeapYear(year){
     else{
         return false;
     }
-
 }
-
 let result=isLeapYear(2023);
 console.log(result);
